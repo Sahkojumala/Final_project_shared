@@ -1,6 +1,6 @@
 
 
-# ohjeita mäyttöön ja säätöön
+# ohjeita käyttöön ja säätöön
 
 # miten ajetaan komentoriviltä
 # python3 main.py --backbone resnet18 --batch_size 16 --epochs 5 --csv_dir ../CSVs/folds
